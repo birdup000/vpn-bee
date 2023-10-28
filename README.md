@@ -1,1 +1,1 @@
-# openvpn-gui-bee
+# vpn-bee client
